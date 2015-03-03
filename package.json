@@ -16,5 +16,8 @@
     "linkedin"
   ],
   "author": "Roman Fresneda Quiroga",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.2"
+  }
 }
