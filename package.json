@@ -1,0 +1,20 @@
+{
+  "name": "matcomfinder",
+  "version": "1.0.0",
+  "description": "Placeholder document",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "matcom",
+    "node",
+    "linkedin"
+  ],
+  "author": "Roman Fresneda Quiroga",
+  "license": "ISC"
+}
